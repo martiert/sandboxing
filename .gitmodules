@@ -1,0 +1,9 @@
+[submodule "sandbox"]
+	path = sandbox
+	url = git@github.com:martiert/sandbox.git
+[submodule "presentation"]
+	path = presentation
+	url = git@github.com:martiert/sandbox_pres.git
+[submodule "cgroup"]
+	path = cgroup
+	url = git@github.com:martiert/cgroup_tools.git
